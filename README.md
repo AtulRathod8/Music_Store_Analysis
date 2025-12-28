@@ -34,9 +34,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 * Postgre SQL
 * PgAdmin4
 
-## Credits
 
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/VFIuIjswMKM
 
 ## License
 
